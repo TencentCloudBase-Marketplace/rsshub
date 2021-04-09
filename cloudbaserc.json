@@ -13,7 +13,7 @@
           "uploadType": "image",
           "containerPort": 1200,
           "imageInfo": {
-            "imageUrl": "diygod/rsshub"
+            "imageUrl": "ccr.ccs.tencentyun.com/tcb_public/diygod_rsshub:latest"
           },
           "envVariables": {}
         }
